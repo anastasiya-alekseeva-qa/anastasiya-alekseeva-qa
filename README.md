@@ -73,7 +73,7 @@
 <br>
 
 ## 🎒 Образование
-[<img src="/anastasiya_alekseeva_certificate_139_hours_en.png" width="280px" hspace="10px" alt="Сертификат»">](https://raw.githubusercontent.com/anastasiya-alekseeva-qa/anastasiya-alekseeva-qa/refs/heads/main/anastasiya_alekseeva_certificate_139_hours_en.jpg)
+[<img src="/anastasiya_alekseeva_certificate_139_hours_en.jpg" width="280px" hspace="10px" alt="Сертификат»">](https://raw.githubusercontent.com/anastasiya-alekseeva-qa/anastasiya-alekseeva-qa/refs/heads/main/anastasiya_alekseeva_certificate_139_hours_en.jpg)
 
 <br>
 <br>
